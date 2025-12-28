@@ -93,7 +93,7 @@ button {
 <div class="lock" id="lock">
   <h2>Only You ❤️</h2>
   <p>Enter the password</p>
-  <input type="password" id="pass" placeholder="hint: something timeless">
+  <input type="password" id="pass" placeholder="hint: I said yes!">
   <br>
   <button onclick="unlock()">Open</button>
 </div>
